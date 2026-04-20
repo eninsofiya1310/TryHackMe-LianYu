@@ -1,5 +1,5 @@
 # TryHackMe-LianYu
-A complete walkthrough for TryHackMe's Lian_Yu CTF machine. Includes web enumeration, FTP exploitation, steganography, and privilege escalation. All flags and credentials are documented.
+A complete walkthrough for TryHackMe's LianYu CTF machine. Includes web enumeration, FTP exploitation, steganography, and privilege escalation. All flags and credentials are documented.
 
 ## Introduction
 LianYu is a beginner-friendly CTF machine from TryHackMe based on the Arrowverse. The main objective is to capture two flags: user.txt and root.txt.
